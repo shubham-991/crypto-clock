@@ -10,7 +10,8 @@ hooks.
 with pagination support for better performance.
 * Used ChartJS to display the price data for each cryptocurrency in a visually appealing and
 interactive chart.
-* **Technology Stack: ReactJS, MaterialUI, Firebase, ChartJS, React Context API**
+* Implemented react lazy loading for beter performance.
+* **Technology Stack: ReactJS, CSS, MaterialUI, Firebase, ChartJS, React Context API**
 
 
 # Screenshots
