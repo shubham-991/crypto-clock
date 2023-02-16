@@ -20,11 +20,11 @@ interactive chart.
 ![Screenshot (1018)](https://user-images.githubusercontent.com/109795529/219328006-0c0f0778-156b-43c7-b363-e01c5b177c27.png)
 ## Coinpage
 ![Screenshot (1019)](https://user-images.githubusercontent.com/109795529/219328008-b5a2ba78-4858-4686-8bdc-381064b541a6.png)
-## 24 hours, 1 month, 3 month, 1 year chanege
+## 24 hours, 1 month, 3 month, 1 year change
 ![Screenshot (1020)](https://user-images.githubusercontent.com/109795529/219328017-ea80ac72-c08c-4100-8e28-58fe3baaa917.png)
 ##
 ![Screenshot (1021)](https://user-images.githubusercontent.com/109795529/219328024-ccbc3fec-7f5a-48bc-9021-49fde0d049f2.png)
 ## Login and Signup Feature
 ![Screenshot (1022)](https://user-images.githubusercontent.com/109795529/219328030-f13e3eef-cdd3-4f36-a785-606d2605d6c1.png)
-## Watchlist Feature
+## Watchlist Feature | Add or remove coins from watchlist
 ![Screenshot (1023)](https://user-images.githubusercontent.com/109795529/219328036-52a4a797-0968-43d7-88a7-da390141a908.png)
